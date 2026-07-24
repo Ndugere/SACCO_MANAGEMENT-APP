@@ -1,20 +1,3 @@
-Commit Message
-
-feat: add full SACCO management modules including expenses, loans, ledgerbook, and member activity tracking
-
-Implemented daily expense tracking
-
-Added loan management with multiple loan types
-
-Created ledgerbook module for financial records
-
-Added member activity history tracking (transactions, loan status, contributions)
-
-Improved overall UI with Bootstrap
-
-Integrated Django backend with structured models and views
-
-README.md
 SACCO Management System
 
 A powerful and efficient SACCO Management Application built with Django, designed to help Savings and Credit Cooperative Organizations manage members, loans, expenses, and daily financial activities with accuracy and transparency.
